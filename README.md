@@ -62,3 +62,4 @@ java Final_project.EventOrganizerApp
   -   **4:** Delete an event
   -   **5:** Exit the application
 - Follow the prompts to mange event seamlessly.
+---
